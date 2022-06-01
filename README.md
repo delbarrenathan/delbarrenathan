@@ -1,0 +1,4 @@
+- 👋 Bonjour je suis <strong>@delbarrenathan
+- 🌱 Je rentre en formation Web-Designer à la rentrée 2022
+- 💞️ Je recherche une entreprise pour m'accueillir en alternance
+- 📫 Vous pouvez me contacter sur mon mail : delbarre.nathan02@gmail.com
